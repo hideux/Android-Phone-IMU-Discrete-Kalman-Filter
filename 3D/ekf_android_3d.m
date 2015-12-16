@@ -12,7 +12,7 @@ P_y = ones(n,1);
 P_z = ones(n,1);
 % predicted state vectors
 x_p = zeros(n,1);
-x_p = zeros(n,1);
+y_p = zeros(n,1);
 x_p = zeros(n,1);
 % predicted error co-variance matrix
 P_p_x = zeros(n,1);
